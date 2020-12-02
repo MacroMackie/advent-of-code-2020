@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "ESNext",
+    "moduleResolution": "Node"
+  },
+  "types": [
+    "node"
+  ],
+  "include": [
+    "lib/**/*",
+  ],
+  "exclude": [
+    "node_modules",
+  ]
+}
+
