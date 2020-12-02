@@ -1,0 +1,1 @@
+yarn ts-node ./lib/day-$1
